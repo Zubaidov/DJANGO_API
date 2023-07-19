@@ -1,6 +1,8 @@
 # DJANGO_API
 
-## Packages (Libraries to install)
+## Modules (pip install ...)
     [+] django
+    [+] djangorestframework
+
 
 ## Next step
